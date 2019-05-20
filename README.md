@@ -1,4 +1,7 @@
-# GSoC 2017 Logs
 
-This blog has been created to serve one (and only one) purpose - to serve as
-documentation during my GSoC 2017, in the event I get accepted.
+This blog documents my experience at Outreachy May-August 2019 round. I am working on adding support for io_uring to QEMU.
+Project at
+<https://wiki.qemu.org/Internships/ProjectIdeas/IOUring>
+
+Status at
+<https://wiki.qemu.org/Features/IOUring>

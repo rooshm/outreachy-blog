@@ -1,6 +1,6 @@
 # Site settings
-title: pip-ing Hot Summer
-baseurl: "/gsoc-2017"
+title: Every Ring Has a Summer
+baseurl: ""
 url: "" # default is empty
 
 # Build settings
@@ -9,8 +9,8 @@ kramdown:
 permalink: pretty
 
 # Third-party services - just leave empty to disable it
-google_analytics: "UA-42240814-4"
-disqus_shortname:
+google_analytics:
+disqus_shortname: "weatherwaxed"
 
 # Fancy URL stuff
 permalink: /:month/:day/:title/
