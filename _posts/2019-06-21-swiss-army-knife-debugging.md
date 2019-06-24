@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Swiss Army Knives: Debugging in QEMU"
-tags: [debugging][qemu][getting stuck in open source]
+tags: ["debugging", "qemu", "getting stuck in open source"]
 author: Aarushi Mehta
 redirect_from: "/2019/06/15/swiss-army-knife-debugging"
 ---
