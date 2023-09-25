@@ -41,7 +41,7 @@
 }
 
 .post-list > li {
-    margin-bottom: $spacing-unit / 4;
+    margin-bottom:  calc($spacing-unit / 4);
     list-style-type: none;
     margin-left: -2rem;
 

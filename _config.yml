@@ -1,6 +1,6 @@
 # Site settings
 title: Every Ring Has a Summer
-baseurl: ""
+baseurl: "/outreachy-blog"
 url: "" # default is empty
 
 # Build settings

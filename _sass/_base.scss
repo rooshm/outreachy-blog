@@ -46,7 +46,7 @@ p,
 pre,
 table,
 ul {
-    margin-bottom: $spacing-unit / 2;
+    margin-bottom:  calc($spacing-unit / 2);
 }
 /**
  * Images
@@ -106,7 +106,7 @@ a {
  */
 blockquote {
     color: $grey-color;
-    padding-left: $spacing-unit / 2;
+    padding-left:  calc($spacing-unit / 2);
     border-left: 2px solid $grey-color-light;
     font-style: italic;
     font-size: $small-font-size;
